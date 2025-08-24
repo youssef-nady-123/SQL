@@ -1,7 +1,8 @@
 # SQL
 
-<p> this tutorial form baraa </p>
-<p> used chatgpt for give me more examples </p>
+### download prerequisites
+## https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+## https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16
 
 <h2> Refernce For This Repo: </h2>
 <ul>
