@@ -1,8 +1,11 @@
 # SQL
 
 ### download prerequisites
-## https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-## https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16
+## 
+<ol>
+  <li> <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"> SQL Server </a></li>
+  <li> <a href="https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16"> SSMS </a></li>
+</ol>
 
 <h2> Refernce For This Repo: </h2>
 <ul>
