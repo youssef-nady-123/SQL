@@ -1,0 +1,20 @@
+--------------------
+-- 01 What Is SQL -- 
+--------------------
+-- Database --> is a "container" that store the data
+-- SQL --> is the "language" use in order to talk the database
+-- SQL stands for structure query language, and is the language speak to the database
+-- Databases are secure, and speed, and you can control who can access, ... 
+
+-------------------------------
+-- What Is DBMS & SQL Server -- 
+-------------------------------
+-- how many people are interacting with applications and the websites, we use DBMS
+-- DBMS is the database management system, is the software that can "manage" the database
+-- DBMS determine which command will execute first, 
+-- Schema: helps you to organize your tables and your objects in the database, or it is an organization of table
+-- Table: like spread sheet that organize the data into columns, it collection of data organized in rows and columns 
+-- Column: is a vertical part of the table, each column has one type of data. 
+-- Row: represents a single record in a table
+-- Record: is the same as Row on the SQL, it represents on complete set of related data in table
+-- Data Types can be: INT, DECIMAL, CHAR, VARCHAR, DATE, TIME
