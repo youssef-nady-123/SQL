@@ -1,7 +1,6 @@
-# SQL
+# SQL Tutorial Summary
 
-### download prerequisites
-## 
+### Download The Prerequisites
 <ol>
   <li> <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"> SQL Server </a></li>
   <li> <a href="https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16"> SSMS </a></li>
